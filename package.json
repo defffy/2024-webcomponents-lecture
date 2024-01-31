@@ -1,0 +1,11 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "01:start": "pnpm -F 01 run start",
+    "01:finished": "pnpm -F 01 run finished"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
