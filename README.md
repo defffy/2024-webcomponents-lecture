@@ -2,8 +2,8 @@
 
 ## Contents
 
-1. [Prerequisites](#prerequisites)
-2. [Foundations Of Classes](#01-foundations-of-classes)
+- [Prerequisites](#prerequisites)
+- [01) Foundations Of Classes](#01-foundations-of-classes)
 
 ## Prerequisites
 
