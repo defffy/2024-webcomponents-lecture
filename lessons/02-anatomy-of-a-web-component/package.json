@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-      "start": "vite start"
+    "start": "vite start",
+    "finished": "vite finished"
   },
   "devDependencies": {
     "vite": "*"
