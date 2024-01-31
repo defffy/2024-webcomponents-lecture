@@ -3,7 +3,7 @@
 ## Contents
 
 1. [Prerequisites](#prerequisites)
-2. [Foundations Of Classes](#foundations-of-classes)
+2. [Foundations Of Classes](#01-foundations-of-classes)
 
 ## Prerequisites
 
@@ -27,7 +27,7 @@ for running the code for a certain lesson follows: `pnpm run <lesson-number>:<pa
 - `pnpm run 01:start` - Will run the code in the `start` section of the first lesson
 - `pnpm run 01:finished` - Will run the code for the `finished` section of the first lesson
 
-## Foundations Of Classes
+## 01 Foundations Of Classes
 
 This lesson covers the basics of creating and using
 JS classes to build dry and modular code.
