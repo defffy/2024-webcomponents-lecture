@@ -2,8 +2,8 @@
 
 ## Contents
 
-- 1.[Prerequisites](#prerequisites)
-- 2.[Foundations Of Classes](#foundations-of-classes)
+1. [Prerequisites](#prerequisites)
+2. [Foundations Of Classes](#foundations-of-classes)
 
 ## Prerequisites
 
@@ -23,8 +23,9 @@ that allow you to start from scratch and also view the final code for the lesson
 for running the code for a certain lesson follows: `pnpm run <lesson-number>:<part>`.
 
 **Example**
-`pnpm run 01:start` - Will run the code in the `start` section of the lesson
-`pnpm run 01:finished` - Will run the code for the `finished` section of the lesson
+
+- `pnpm run 01:start` - Will run the code in the `start` section of the first lesson
+- `pnpm run 01:finished` - Will run the code for the `finished` section of the first lesson
 
 ## Foundations Of Classes
 
