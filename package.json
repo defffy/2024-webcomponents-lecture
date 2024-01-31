@@ -3,9 +3,13 @@
   "private": true,
   "scripts": {
     "01:start": "pnpm -F 01 run start",
-    "01:finished": "pnpm -F 01 run finished"
+    "01:finished": "pnpm -F 01 run finished",
+    "02:start": "pnpm -F 02 run start",
+    "02:finished": "pnpm -F 02 run finished"
+
   },
   "devDependencies": {
-    "nodemon": "^3.0.3"
+    "nodemon": "^3.0.3",
+    "vite": "^5.0.12"
   }
 }
