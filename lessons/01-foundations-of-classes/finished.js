@@ -14,7 +14,7 @@ class Demo {
   // A class can contain a 'constructor' to create properties
   // that can be used throughout the class
   constructor(demoName) {
-    // The 'this' keyword applies the context of where
+    // The 'this' keyword applies to the context of where
     // it is being set. In the context of a class it is
     // always a reference to an object.
     //
@@ -23,14 +23,14 @@ class Demo {
   }
 
   // Methods can be used to do certain operations with the properties
-  // defined in or out of the class. The essentially look like function
+  // defined in or out of the class. They essentially look like function
   // without the 'function' keyword
   greetPerson() {
     console.log(`Hello ${this.name}`);
   }
 }
 
-// You can instantiating a class by using the `new` keyword.
+// You can instantiate a class by using the `new` keyword.
 // The arguments passed to the ''()' will be available in the
 // constructor. In this instance we'll pass a string that will
 // be the 'demoName' parameter.
