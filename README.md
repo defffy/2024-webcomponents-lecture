@@ -4,6 +4,7 @@
 
 - [Prerequisites](#prerequisites)
 - [01. Foundations Of Classes](#01-foundations-of-classes)
+- [02. Anatomy Of A Web Component](#02-anatomy-of-a-web-component)
 
 ## Prerequisites
 
@@ -38,3 +39,16 @@ JS classes to build dry and modular code.
 - [The 'this' keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 - [YouTube: Creating a class](https://www.youtube.com/watch?v=HboT8g_QSGc)
 - [YouTube: Methods overview](https://www.youtube.com/watch?v=hy-C4NY7A_8)
+
+## 02. Anatomy Of A Web Component
+
+A lot of web component examples show the custom element being built with a `template` tag. In this
+lesson we will build the HTML of the web component with only JS. It will cover the basics of how
+a web component is structured and how to write your first one.
+
+**Links**
+
+- [Web Components overview](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)
+- [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM)
+- [Slots](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/slot)
+- [In-Depth Video Explanation](https://www.youtube.com/watch?v=hVxZ-te0kio)
