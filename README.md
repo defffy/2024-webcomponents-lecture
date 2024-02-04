@@ -62,3 +62,9 @@ updated on the custom element.
 **Links**
 
 - [Observed Attributes](https://dev.to/jwp/web-components-color-span-3dai)
+
+## Extended Learning
+
+These topics are important to building robust web components, but weren't included or covered in-depth.
+
+- [Lifecycle Methods](https://bignerdranch.com/blog/learn-the-lifecycle-of-a-web-component-by-building-a-custom-element/)
