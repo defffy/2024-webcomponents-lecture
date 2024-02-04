@@ -5,7 +5,9 @@
     "01:start": "pnpm -F 01 run start",
     "01:finished": "pnpm -F 01 run finished",
     "02:start": "pnpm -F 02 run start",
-    "02:finished": "pnpm -F 02 run finished"
+    "02:finished": "pnpm -F 02 run finished",
+    "03:start": "pnpm -F 03 run start",
+    "03:finished": "pnpm -F 03 run finished"
 
   },
   "devDependencies": {
