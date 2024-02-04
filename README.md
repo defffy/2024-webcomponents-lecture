@@ -5,6 +5,7 @@
 - [Prerequisites](#prerequisites)
 - [01. Foundations Of Classes](#01-foundations-of-classes)
 - [02. Anatomy Of A Web Component](#02-anatomy-of-a-web-component)
+- [03. Dynamic Attributes](#03-dynamic-attributes)
 
 ## Prerequisites
 
@@ -52,3 +53,12 @@ a web component is structured and how to write your first one.
 - [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM)
 - [Slots](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/slot)
 - [In-Depth Video Explanation](https://www.youtube.com/watch?v=hVxZ-te0kio)
+
+## 03. Dynamic Attributes
+
+This lesson convers how to add a sense of `reactivity` to you web components when attributes are
+updated on the custom element.
+
+**Links**
+
+- [Observed Attributes](https://dev.to/jwp/web-components-color-span-3dai)
