@@ -6,6 +6,7 @@
 - [01. Foundations Of Classes](#01-foundations-of-classes)
 - [02. Anatomy Of A Web Component](#02-anatomy-of-a-web-component)
 - [03. Dynamic Attributes](#03-dynamic-attributes)
+- [04. Slotted Content](#04-slotted-content)
 
 ## Prerequisites
 
@@ -62,6 +63,17 @@ updated on the custom element.
 **Links**
 
 - [Observed Attributes](https://dev.to/jwp/web-components-color-span-3dai)
+
+## 04. Slotted Content
+
+Slots can be used as a placholder for flexible markup within a custom element.
+You can event nest custom elements within each other. This provides a powerful
+pattern for building robust design systems.
+
+**Links**
+
+- [Slots overview](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots#adding_flexibility_with_slots)
+- [`get` function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get)
 
 ## Extended Learning
 
