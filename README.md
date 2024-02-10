@@ -7,6 +7,7 @@
 - [02. Anatomy Of A Web Component](#02-anatomy-of-a-web-component)
 - [03. Dynamic Attributes](#03-dynamic-attributes)
 - [04. Slotted Content](#04-slotted-content)
+- [05. Styling Patterns](#05-styling-patterns)
 
 ## Prerequisites
 
@@ -75,8 +76,22 @@ pattern for building robust design systems.
 - [Slots overview](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_templates_and_slots#adding_flexibility_with_slots)
 - [`get` function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get)
 
+## 05. Styling Patterns
+
+While encapsulation is useful to prevent things link style leaks, it can sometimes be confusing
+when trying to customize web components especially when using a 3rd party component library. This
+lesson covers alternative ways to customized styles to you component.
+
+**Links**
+
+- [CSS custom elements](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements)
+- [`::slotted`](https://developer.mozilla.org/en-US/docs/Web/CSS/::slotted)
+- [`::part`](https://developer.mozilla.org/en-US/docs/Web/CSS/::part)
+- [CSS Tricks Article](https://css-tricks.com/styling-a-web-component/)
+
 ## Extended Learning
 
 These topics are important to building robust web components, but weren't included or covered in-depth.
 
 - [Lifecycle Methods](https://bignerdranch.com/blog/learn-the-lifecycle-of-a-web-component-by-building-a-custom-element/)
+- [Fixing FOUC](https://leoneck.de/blog/fouc-web-components)
