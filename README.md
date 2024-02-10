@@ -78,9 +78,9 @@ pattern for building robust design systems.
 
 ## 05. Styling Patterns
 
-While encapsulation is useful to prevent things link style leaks, it can sometimes be confusing
+While encapsulation is useful to prevent things like style leaks, it can sometimes be confusing
 when trying to customize web components especially when using a 3rd party component library. This
-lesson covers alternative ways to customized styles to you component.
+lesson covers alternative ways to customize styles to you component.
 
 **Links**
 
