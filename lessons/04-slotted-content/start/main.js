@@ -5,7 +5,7 @@
  * Read more: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/slot
  * */
 
-/*------ Excercise 1 -------*/
+/*------ Exercise 1 -------*/
 
 /*
  * Create slots within the `NMACard` that allows
@@ -39,12 +39,12 @@ class NMACard extends HTMLElement {
 
 customElements.define("nma-card", NMACard);
 
-/* ------ Excercise 2 ------ */
+/* ------ Exercise 2 ------ */
 
 /*
  * You can also slot web components and have them
  * react to changes to the parent component. This
- * excercise creates muliple different 'nma-color'
+ * Exercise creates muliple different 'nma-color'
  * elements which are pretty much just tiles
  * with a specific background color. There is a parent
  * 'nma-color-group' element that can toggle
@@ -77,7 +77,6 @@ class NMAColorGroup extends HTMLElement {
     super();
     this.attachShadow({ mode: "open" });
   }
-
 }
 
 customElements.define("nma-color-group", NMAColorGroup);
