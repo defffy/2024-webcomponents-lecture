@@ -5,9 +5,9 @@
  * Read more: https://developer.mozilla.org/en-US/docs/Web/CSS/::slotted
  *
  * Steps:
- * 1. Use the ::slotted() psuedo-element to style the <h3>
- * 2. Use the ::slotted() psuedo-element to style the <p>
- * 3. Use the ::slotted() psuedo-element to style the <a>
+* 1. Use the ::slotted() psuedo-element to style the <h3> in the css variable
+ * 2. Use the ::slotted() psuedo-element to style the <p> in the css variable
+ * 3. Use the ::slotted() psuedo-element to style the <a> in the css variable
  * */
 class NMAText extends HTMLElement {
   constructor() {
