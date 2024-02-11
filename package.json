@@ -9,7 +9,9 @@
     "03:start": "pnpm -F 03 run start",
     "03:finished": "pnpm -F 03 run finished",
     "04:start": "pnpm -F 04 run start",
-    "04:finished": "pnpm -F 04 run finished"
+    "04:finished": "pnpm -F 04 run finished",
+    "05:start": "pnpm -F 05 run start",
+    "05:finished": "pnpm -F 05 run finished"
   },
   "devDependencies": {
     "nodemon": "^3.0.3",
