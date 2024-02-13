@@ -13,12 +13,14 @@
 
 ### Installation
 
-#### PNPM
+1.  Install `pnpm`
 
 `npm i -g pnpm`
 
 If you don't want to use `npm` you can follow additional installation
 methods [here](https://pnpm.io/installation)
+
+2. In the root directory run `pnpm install`
 
 ### Getting Started
 
