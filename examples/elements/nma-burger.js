@@ -1,3 +1,6 @@
+
+    const toggleNavEvent = new Event("togglenav", { bubbles: true });
+
 class NMABurger extends HTMLElement {
   constructor() {
     super();
@@ -16,8 +19,10 @@ class NMABurger extends HTMLElement {
   }
 
   handleClick() {
-    this.burger.addEventListener("click", () => {
+
+    this.burger.addEventListener("click", (e) => {
       this.burger.classList.toggle("active");
+      this.dispatchEvent(toggleNavEvent);
     });
   }
 
