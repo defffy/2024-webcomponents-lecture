@@ -2,6 +2,7 @@
   "name": "root",
   "private": true,
   "scripts": {
+      "examples": "pnpm -F examples run start",
     "01:start": "pnpm -F 01 run start",
     "01:finished": "pnpm -F 01 run finished",
     "02:start": "pnpm -F 02 run start",
